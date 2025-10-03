@@ -2,6 +2,8 @@
 
 A React web app built for the **Linkplus IT React Internship** to demonstrate components, state, routing, forms, and data fetching.
 
+![App Preview](screenshot.png)
+
 ## ✨ Features
 - List users (fetched from [JSONPlaceholder](https://jsonplaceholder.typicode.com/users))  
 - View user details (address, phone, website, company)  
